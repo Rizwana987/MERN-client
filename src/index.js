@@ -10,8 +10,6 @@ root.render(
   <div>
     <Router>
       <p>Changes</p>
-      <h1>ghgyjhjk</h1>
-      <h1>cftyujbvgyuikmn</h1>
       <h2>vgdhjnbvgdhj</h2>
       <Navbar />
       <Routes>
