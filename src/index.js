@@ -11,6 +11,7 @@ root.render(
     <Router>
       <p>Changes</p>
       <h1>ghgyjhjk</h1>
+      <h2>vgdhjnbvgdhj</h2>
       <Navbar />
       <Routes>
         <Route path="/register" element={<Register />} />
